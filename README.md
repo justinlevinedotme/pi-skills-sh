@@ -5,13 +5,17 @@ A [pi](https://github.com/badlogic/pi-mono) extension that brings [skills.sh](ht
 ## Install
 
 ```bash
+# From npm
+pi install npm:pi-skills-sh
+
+# From git
 pi install git:github.com/justinlevinedotme/pi-skills-sh
 ```
 
 Or try without installing:
 
 ```bash
-pi -e git:github.com/justinlevinedotme/pi-skills-sh
+pi -e npm:pi-skills-sh
 ```
 
 ## Usage

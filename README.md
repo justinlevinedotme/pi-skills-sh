@@ -1,6 +1,11 @@
-# pi-skills-sh
+<p align="center">
+  <img src="logo.png" alt="pi-skills.sh" width="600">
+</p>
 
-A [pi](https://github.com/badlogic/pi-mono) extension that brings [skills.sh](https://skills.sh) into your pi session. Browse, search, install, remove, and update agent skills without leaving your terminal.
+<p align="center">
+  A <a href="https://github.com/badlogic/pi-mono">pi</a> extension that brings <a href="https://skills.sh">skills.sh</a> into your pi session.<br>
+  Browse, search, install, remove, and update agent skills without leaving your terminal.
+</p>
 
 ## Install
 

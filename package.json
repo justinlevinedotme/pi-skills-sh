@@ -1,8 +1,13 @@
 {
   "name": "pi-skills-sh",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Browse, install & manage skills.sh skills from inside pi",
-  "keywords": ["pi-package", "skills", "skills.sh", "agent-skills"],
+  "keywords": [
+    "pi-package",
+    "skills",
+    "skills.sh",
+    "agent-skills"
+  ],
   "author": "justinlevinedotme",
   "license": "MIT",
   "repository": {
@@ -21,7 +26,9 @@
     "@sinclair/typebox": "*"
   },
   "pi": {
-    "extensions": ["./extensions"],
+    "extensions": [
+      "./extensions"
+    ],
     "video": "https://raw.githubusercontent.com/justinlevinedotme/pi-skills-sh/main/demo.mp4"
   }
 }
